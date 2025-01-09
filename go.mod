@@ -1,6 +1,6 @@
 module github.com/isthisloss/yc-lockbox-sync
 
-go 1.21.6
+go 1.21
 
 require (
 	github.com/ghodss/yaml v1.0.0 // indirect

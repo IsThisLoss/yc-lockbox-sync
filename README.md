@@ -11,6 +11,9 @@ A tool to synchronize Yandex Cloud Lockbox secret to a file
 Parameters:
 
 `credentials` - path to file with credentials of service account
+
 `secret-id` - id of the secret to sync in Yandex Cloud Lockbox
+
 `secret-key` - key inside the secret to sync
+
 `dst` - output file path

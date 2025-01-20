@@ -59,7 +59,7 @@ func main() {
 
 	out, err := os.Create(*dst)
 	panicOnError(err)
-  defer out.Close()
+	defer out.Close()
 
 	out.Write(data)
 
